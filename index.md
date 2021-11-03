@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+Ayu Pixels: "Finding Pixels, Even Just For A Day"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Let's Have Fun together ...
